@@ -20,10 +20,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1wtC4Y0ONAve4at7txJIy5ca4Pf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="extract.method.default.visibility" value="public" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.yandex2.task" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,17 +46,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.SearchItemTest">
+    <configuration name="SearchItemTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Yandex2.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yandex2.task.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yandex2.task.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.yandex2.task.tests.SearchItemTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SearchItemTest.searchItemTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Yandex2.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yandex2.task.*" />
+          <option name="PATTERN" value="com.yandex2.task.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.yandex2.task" />
-      <option name="MAIN_CLASS_NAME" value="com.yandex2.task.SearchItemTest" />
+      <option name="MAIN_CLASS_NAME" value="com.yandex2.task.tests.SearchItemTest" />
       <option name="METHOD_NAME" value="searchItemTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -58,6 +84,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SearchItemTest" />
         <item itemvalue="TestNG.SearchItemTest.searchItemTest" />
       </list>
     </recent_temporary>
@@ -74,5 +101,18 @@
       <updated>1629268306636</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
